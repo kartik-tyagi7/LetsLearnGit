@@ -1,7 +1,7 @@
 
 
 def sum(a, b):
-    return a+b
+    print(a+b)
 
 
-print(sum(5,7))
+sum(5,7)
