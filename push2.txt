@@ -1,0 +1,1 @@
+Git is a powerful version control system that helps developers manage changes to their codebase. By using Git, teams can collaborate efficiently, track revisions, and revert to previous states if necessary. Learning Git commands such as add, commit, push, and pull is essential for modern software development workflows.
